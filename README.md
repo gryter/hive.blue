@@ -5,5 +5,5 @@ https://hive.blue
 Hive Blue is a manual free onboarding and information service for the Hive ecosystem. 
 
 ### Translation Contributor Credits
-Spanish: https://hive.blog/@jaguar.force
+Spanish: https://hive.blog/@jaguar.force <br>
 Turkish: https://github.com/DeathwingTheBoss | https://hive.blog/@deathwing
