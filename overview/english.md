@@ -1,4 +1,5 @@
-# HIVE ECOSYSTEM OVERVIEW
+# Hive Ecosystem Overview
+
 ## Do I Need a Hive Account if I have a Steem Account?
 No. For your convenience your Steem account was ported over to Hive. Use your keys from your Steem account and log into any Hive interface. You even have an airdrop in there!
 
