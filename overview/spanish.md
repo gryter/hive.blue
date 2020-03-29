@@ -1,7 +1,7 @@
 # Entendiendo el Ecosistema en Hive
 
 ## ¿Necesito una cuenta en Hive si ya tengo una cuenta en Steem?
-No. Tu cuenta en steem ya ha sido migrada al blockchain Hive. Puedes usar las mismas claves de steem para logearte en cualquier Hive. Hubo incluso un airdrop, los balances de steem que tenías en steem, ahora los tienes enHive. 
+No. Tu cuenta en steem ya ha sido migrada al blockchain Hive. Puedes usar las mismas claves de steem para logearte en cualquier Hive. Hubo incluso un airdrop, los balances de steem que tenías en steem, ahora los tienes en Hive. 
 
 ## ¿Por qué se creó Hive?
 Hive es un blockchain basado en la tecnología Grapheno que fue originado como un fork del blockchain Steem. Un fork que surgió de la comunidad que tiene como intención mantener los valores que fueron establecidos en steem por la comunidad y también liberar el ecosistema del peso del ninja-mined stake de Steemit.  Esta fue la razón que amenazó la descentralización del blockchain steem y fue el motivo principal de la creación del blockchain Hive.
