@@ -1,4 +1,4 @@
-Hive Ökosystem Übersicht
+# Hive Ökosystem Übersicht
 
 ## Benötige Ich einen Hive Account, wenn ich bereits einen Steem Account besitze?
 Nein. Zu deinem Vorteil wurde dein Steem Account auf Hive portiert. Du kannst deine Steem Schlüssen nutzen, um dich auf Hive einzuloggen. Du hast sogar einen Airdrop erhalten!
