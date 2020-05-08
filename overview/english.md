@@ -4,7 +4,7 @@
 No. For your convenience your Steem account was ported over to Hive. Use your keys from your Steem account and log into any Hive interface. You even have an airdrop in there!
 
 ## Why was Hive created?
-Hive is a Graphene-based blockchain that was originally developed as a fork of the Steem blockchain. As a community-driven fork, its intention is to continue the strong Steem community values that have been established while also freeing the ecosystem from the burden of Steemit Inc's ninja-mined stake. It was that stake that had threatened Steem's decentralization since its inception and ultimately led to the creation of the Hive blockchain.
+Hive is a Graphene (AppBase) based blockchain that was originally developed as a fork of the Steem blockchain. As a community-driven fork, its intention is to continue the strong Steem community values that have been established while also freeing the ecosystem from the burden of Steemit Inc's ninja-mined stake. It was that stake that had threatened Steem's decentralization since its inception and ultimately led to the creation of the Hive blockchain.
 
 ## What is the difference between Hive and Steem?
 Hive removes the elements of centralization and imbalanced control that have plagued the Steem blockchain over the last 4 years. Since it’s launch on March 20, 2020 Hive is growing and evolving day by day. Its prime selling points are its decentralization, its 3 second transaction speed and ability to handle large volumes. It is ideal real estate for a variety of innovative projects focused on a broad range of fields, from open source development to games.
