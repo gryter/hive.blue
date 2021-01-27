@@ -17,4 +17,4 @@ https://hiveblocks.com/@youraccountname This is the block explorer view that sho
 - You can also join Communities that are on specific topics (but keep an eye out for their rules!) of interest to yourself and meet others through comments. Keep in mind that the number of followers you have on Hive doesn't directly translate to how much curation you receive. So don't stress and post quality content!
 
 **Learn more at Hive Discord chat:**
-https://discord.gg/7FV5VVW
+https://myhive.li/discord
