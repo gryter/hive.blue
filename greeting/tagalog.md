@@ -33,4 +33,4 @@ iba sa pamamagitan ng mga komento. Tandaan na ang bilang ng mga "followers" na m
 ka sa Hive ay hindi direktang naisasalin sa bilang ng "curation" na iyong matatanggap. Kaya
 huwag mabalisa at mag-post ng mga de-kalidad na mga nilalaman.
 
-**Para sa karagdagang kaalaman, magtungo sa Discord Hive chat:** https://discord.gg/7FV5VVW
+**Para sa karagdagang kaalaman, magtungo sa Discord Hive chat:** https://myhive.li/discord
