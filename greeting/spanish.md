@@ -17,4 +17,4 @@ https://hiveblocks.com/@TUCUENTA Este es el explorador de bloques donde puedes v
 - Tu primer post idealmente deberia ser una introduccion. Ponle la etiqueta #introduceyourself y cualquier otra etiqueta que tu pienses que te defina.
 - Tambien puedes unirte a comunidades de diferentes temas que sean de tu interes (pero presta atencion a sus reglas!) y asi podras conocer a otras personas con tus mismos intereses a traves de los comentarios. Ten en cuenta que la cantidad de seguidores que tengas en Hive no se traducira a cuanta curacion (recompensas) obtendras, asi que no te preocupes por eso, concentrate en postear contenido de calidad!
 
-**Puedes aprender mucho mas en el canal de chat Discord de Hive:** https://discord.gg/7FV5VVW
+**Puedes aprender mucho mas en el canal de chat Discord de Hive:** https://myhive.li/discord
