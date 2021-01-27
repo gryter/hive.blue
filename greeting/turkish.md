@@ -17,4 +17,4 @@ https://hiveblocks.com/@hesapadiniz bu linkte blok tarayıcısına göz atabilir
 - Aynı zamanda Hive üzerinde Topluluklara katılabilirsiniz! (fakat topluluk kurallarını kontrol etmeyi unutmayın!) Topluluklar belli konulara odaklanan mini-bloglar olarak adlandırılabilir.
 
 **Hive Discord'una katılarak daha fazla bilgi edinebilirsiniz:**
-https://discord.gg/7FV5VVW
+https://myhive.li/discord
