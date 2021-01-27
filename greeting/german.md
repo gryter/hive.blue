@@ -16,4 +16,4 @@ https://hiveblocks.com/@deinbenutzername Dies ist der Block Explorer welcher all
 - Dein erster Post sollte vorzugsweise eine Vorstellung über dich sein. Nutze das Hashtag #introduceyourself und sonstige Hashtags, welche dich am besten beschreiben.
 - Du kannst ebenfalls Gemeinschaften („Communities“) beitreten welche dich ansprechen und dort auf neue Leute treffen, die dieselben Interessen teilen wie du. Beachte, dass die Anzahl deiner Follower nicht zwingend bedeutet dass du mehr für deine Posts verdienst. Also immer mit der Ruhe und veröffentliche qualitativ hochwertige Inhalte!
 
-**Erfahre mehr im Hive Discord Chat:** https://discord.gg/7FV5VVW
+**Erfahre mehr im Hive Discord Chat:** https://myhive.li/discord
