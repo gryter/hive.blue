@@ -32,4 +32,4 @@ sa uban pinaagi sa mga komento. Hunahunaa nga ang gidaghanon sa imong mga follow
 Hive dili direktang nagpasabot sa kung pila ang curation na imong makuha. Busa ayaw
 ka-stress ug pagpost ug mga de-kalidad na hilisgutan.
 
-**Magkat-on pa sa Discord Hive chat:** https://discord.gg/7FV5VVW
+**Magkat-on pa sa Discord Hive chat:** https://myhive.li/discord
