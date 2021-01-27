@@ -17,4 +17,4 @@ https://hiveblocks.com/@viakontonomo Ĉi tiu blokesplorila vido montras ĉiujn v
 - Vi ankaŭ povas aliĝi al Komunumoj pri specifaj temoj, sed atentu pri iliaj reguloj, kaj vi povas konatiĝi kun aliaj per la komentoj. Atentu ke la kvanto de sekvantoj ne rekte rilatas al la valorigo de viaj afiŝoj, do ne streĉiĝu pri tio kaj fokusiĝu pri kreado de kvalita enhavo!
 
 **Lernu pli en la Hive Discord-babilejo:**
-https://discord.gg/7FV5VVW
+https://myhive.li/discord
