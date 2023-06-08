@@ -4,10 +4,13 @@
 - The "posting key" is used to log in for posting and commenting. Use it on https://hive.blog,  https://peakd.com or any other Hive portal.
 - The "memo key" is used for decrypting encrypted memos.
 
-**If you accidentally reveal your private keys, please change them immediately. If you get hacked, you must let me know right away and I can recover your account under normal conditions.**
+**If you accidentally reveal your private keys, please change them immediately.**
 
 ## Watch your transactions:
-https://hiveblocks.com/@youraccountname This is the block explorer view that shows all of your transactions. It will also show you your public keys and other account settings.
+https://hive.ausbit.dev/@youraccountname This is the block explorer view that shows all of your transactions. It will also show you your public keys and other account settings.
+
+## Download Hive Keychain to log in to dapps and use as a wallet:
+https://hive.ausbit.dev/
 
 ## Posting and interacting:
 - When you post or comment on Hive you get upvotes or downvotes, depending on whether others like or dislike what you're posting.
