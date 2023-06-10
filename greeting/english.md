@@ -10,7 +10,7 @@
 https://hive.ausbit.dev/@youraccountname This is the block explorer view that shows all of your transactions. It will also show you your public keys and other account settings.
 
 ## Download Hive Keychain to log in to dapps and use as a wallet:
-https://hive.ausbit.dev/
+https://hive-keychain.com
 
 ## Posting and interacting:
 - When you post or comment on Hive you get upvotes or downvotes, depending on whether others like or dislike what you're posting.
